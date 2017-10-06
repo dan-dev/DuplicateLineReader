@@ -1,0 +1,15 @@
+C:\Users\Danny\source\repos\DuplicateLineReader\duplicatelinereader\bin\Debug\duplicatelinereader.exe.config
+C:\Users\Danny\source\repos\DuplicateLineReader\duplicatelinereader\bin\Debug\duplicatelinereader.exe
+C:\Users\Danny\source\repos\DuplicateLineReader\duplicatelinereader\bin\Debug\duplicatelinereader.pdb
+C:\Users\Danny\source\repos\DuplicateLineReader\duplicatelinereader\obj\Debug\duplicatelinereader.csprojResolveAssemblyReference.cache
+C:\Users\Danny\source\repos\DuplicateLineReader\duplicatelinereader\obj\Debug\MainWindow.g.cs
+C:\Users\Danny\source\repos\DuplicateLineReader\duplicatelinereader\obj\Debug\App.g.cs
+C:\Users\Danny\source\repos\DuplicateLineReader\duplicatelinereader\obj\Debug\duplicatelinereader_MarkupCompile.cache
+C:\Users\Danny\source\repos\DuplicateLineReader\duplicatelinereader\obj\Debug\duplicatelinereader_MarkupCompile.lref
+C:\Users\Danny\source\repos\DuplicateLineReader\duplicatelinereader\obj\Debug\MainWindow.baml
+C:\Users\Danny\source\repos\DuplicateLineReader\duplicatelinereader\obj\Debug\duplicatelinereader.g.resources
+C:\Users\Danny\source\repos\DuplicateLineReader\duplicatelinereader\obj\Debug\duplicatelinereader.Properties.Resources.resources
+C:\Users\Danny\source\repos\DuplicateLineReader\duplicatelinereader\obj\Debug\duplicatelinereader.csproj.GenerateResource.Cache
+C:\Users\Danny\source\repos\DuplicateLineReader\duplicatelinereader\obj\Debug\duplicatelinereader.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\DuplicateLineReader\duplicatelinereader\obj\Debug\duplicatelinereader.exe
+C:\Users\Danny\source\repos\DuplicateLineReader\duplicatelinereader\obj\Debug\duplicatelinereader.pdb
